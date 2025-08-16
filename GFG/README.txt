@@ -143,4 +143,7 @@ Verify all files are in the same directory
 Test in different browsers
 Check internet connection for external fonts/icons
 ***Built with ❤️ using pure HTML and CSS
+🛠️ Built with Warp AI
+This project was vibe coded using Warp AI, an AI-powered terminal that streamlined the development process. Warp AI generated the HTML and CSS files based on a detailed prompt, leveraging its intelligent code suggestions and responsive design capabilities to create a lightweight, GeeksforGeeks-inspired website with minimal effort.
+
 Inspired by GeeksforGeeks - A Computer Science portal for geeks
